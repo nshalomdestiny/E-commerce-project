@@ -1,33 +1,45 @@
-E-Commerce Project
+### E-Commerce Project
 
 This is a personal project aimed at developing skills in working with microservices architecture. It showcases a [brief description of the project's functionality or purpose].
 
-Key Features
+### Key Features
 
 [List of key features, e.g., user authentication, product catalog, shopping cart, order processing]
 [Highlight any unique or innovative aspects of your project]
 Technologies Used
 
 Backend: [List of backend technologies, e.g., Node.js, Python, Java, Spring Boot]
-Microservices Framework: [Specify if you're using a framework like Spring Cloud, Kubernetes, Docker Swarm]
-Communication: [Describe how microservices communicate, e.g., REST APIs, gRPC, message queues]
-Data Management: [Mention the databases or data storage solutions used]
-Deployment: [Indicate how the project is deployed, e.g., locally, cloud platform]
-Getting Started
 
-Clone the repository: git clone [<repository_url>](https://github.com/nshalomdestiny/E-commerce-project.git)
+Microservices Framework: [Specify if you're using a framework like Spring Cloud, Kubernetes, Docker Swarm]
+
+Communication: [Describe how microservices communicate, e.g., REST APIs, gRPC, message queues]
+
+Data Management: [Mention the databases or data storage solutions used]
+
+Deployment: [Indicate how the project is deployed, e.g., locally, cloud platform]
+
+### Getting Started
+
+Clone the repository: git clone [Repository Url](https://github.com/nshalomdestiny/E-commerce-project.git)
+
 Install dependencies: [Provide instructions for installing required packages or dependencies]
+
 Run the project: [Explain how to start the project, e.g., using a build script or IDE]
-Additional Information
+
+### Additional Information
 
 Project Goals: [Describe your goals for the project, such as learning new technologies, exploring specific design patterns, or solving a particular problem]
+
 Challenges and Solutions: [Share any challenges you faced during development and how you overcame them]
+
 Future Plans: [Mention any future plans for the project, such as adding new features or improving existing ones]
+
 Contributing: [If you're open to contributions, provide guidelines for others to contribute to the project]
-License
 
-[Specify the project's license, e.g., MIT, Apache License]
+### License
 
-Acknowledgements
+[MIT License](https://opensource.org/license/mit)
+
+### Acknowledgements
 
 [Thank any individuals, resources, or tutorials that were helpful in developing the project]
