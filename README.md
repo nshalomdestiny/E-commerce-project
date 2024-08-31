@@ -50,12 +50,12 @@ This is a personal project aimed at developing skills in working with microservi
 
 ### Technology Stack
 Here are the technologies we would use to built the software.
-**Frontend:** Angular
-**Backend:** [Specify the backend technologies used, e.g., Node.js, Python, Java]
-**Microservices Framework:** [Specify if a framework like Spring Cloud, Kubernetes, or Docker Swarm is used]
-**Communication:** [Describe how microservices communicate, e.g., REST APIs, gRPC, message queues]
-**Data Management:** [Mention the databases or data storage solutions used]
-**Deployment:** [Indicate how the project is deployed, e.g., locally, cloud platform]
+**Frontend:** Angular.
+**Backend:** [Specify the backend technologies used, e.g., Node.js, Python, Java].
+**Microservices Framework:** [Specify if a framework like Spring Cloud, Kubernetes, or Docker Swarm is used].
+**Communication:** [Describe how microservices communicate, e.g., REST APIs, gRPC, message queues].
+**Data Management:** [Mention the databases or data storage solutions used].
+**Deployment:** [Indicate how the project is deployed, e.g., locally, cloud platform].
 
 ### Getting Started
 
